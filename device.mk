@@ -144,8 +144,7 @@ PRODUCT_PACKAGES += \
     libdng_sdk.vendor \
     Snap
 
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/releasetools/anx_config.sh:install/bin/anx_config.sh
+$(call inherit-product, vendor/miuicamera/common/common-vendor.mk)
 
 # Context Hub
 PRODUCT_PACKAGES += \
