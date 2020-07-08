@@ -1,6 +1,6 @@
 #
 # Copyright (C) 2019 The RevengeOS Project
-5#
+#
 # SPDX-License-Identifier: Apache-2.0
 #
 
