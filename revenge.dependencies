@@ -1,8 +1,8 @@
 [
   {
-    "repository": "mg712702/vendor_MiuiCamera",
-    "target_path": "vendor/MiuiCamera",
-    "revision": "master",
+    "repository": "Introdructor/android_vendor_miuicamera",
+    "target_path": "vendor/miuicamera",
+    "revision": "quartz",
     "remote": "github"
   },
   {
