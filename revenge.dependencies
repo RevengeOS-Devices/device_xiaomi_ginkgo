@@ -2,13 +2,21 @@
   {
     "repository": "mg712702/vendor_MiuiCamera",
     "target_path": "vendor/MiuiCamera",
-    "branch": "master",
+    "revision": "master",
     "remote": "github"
   },
   {
     "repository": "pshreejoy15/vendor_xiaomi_firmware",
     "target_path": "vendor/xiaomi/firmware",
-    "branch": "ten",
+    "revision": "ten",
     "remote": "gitlab"
+  },
+  {
+    "repository": "android_kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo"
+  },
+  {
+    "repository": "android_vendor_xiaomi_ginkgo",
+    "target_path": "vendor/xiaomi/ginkgo"
   }
 ]
