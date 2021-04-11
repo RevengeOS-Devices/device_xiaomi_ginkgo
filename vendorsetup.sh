@@ -22,7 +22,7 @@ git clone https://github.com/LineageOS/android_vendor_nxp_opensource_packages_ap
 git clone https://github.com/LineageOS/android_vendor_nxp_opensource_halimpl.git -b lineage-18.1-sn100x vendor/nxp/opensource/sn100x/halimpl
 git clone https://github.com/LineageOS/android_vendor_nxp_opensource_hidlimpl.git -b lineage-18.1-sn100x vendor/nxp/opensource/sn100x/hidlimpl
 git clone https://github.com/LineageOS/android_external_libnfc-nxp external/libnfc-nxp
-git clone https://github.com/Introdructor/android_hardware_qcom_display.git -b arrow-11.0-caf-sm6125 hardware/qcom-caf/sm8150/display
+git clone https://github.com/Wave-Project/hardware_qcom_display.git hardware/qcom-caf/sm8150/display
 git clone https://github.com/ArrowOS/android_hardware_qcom_audio.git -b  arrow-11.0-caf-sm8150 hardware/qcom-caf/sm8150/audio
 git clone https://github.com/ArrowOS/android_hardware_qcom_media.git -b arrow-11.0-caf-sm8150 hardware/qcom-caf/sm8150/media
 git clone https://github.com/ArrowOS/android_vendor_qcom_opensource_power.git vendor/qcom/opensource/power
