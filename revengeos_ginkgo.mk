@@ -28,6 +28,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_PIXEL_CHARGER := true
 $(call inherit-product, vendor/revengeos/config/common.mk)
 
+# Build Official
+REVENGEOS_BUILDTYPE := OFFICIAL
+
 # Device identifier
 PRODUCT_NAME := revengeos_ginkgo
 PRODUCT_DEVICE := ginkgo
