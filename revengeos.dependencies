@@ -1,27 +1,17 @@
- 
-[
+ [
   {
-    "repository": "RevengeOS-Devices/device_xiaomi_ginkgo",
-    "target_path": "device/xiaomi/ginkgo",
-    "branch": "r11.0",
-    "remote": "github"
+    "remote": "devices",
+    "repository": "kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo"
   },
   {
-    "repository": "RevengeOS-Devices/kernel_xiaomi_ginkgo",
-    "target_path": "kernel/xiaomi/ginkgo",
-    "branch": "r11.0",
-    "remote": "github" 
+    "remote": "devices",
+    "repository": "vendor_xiaomi_ginkgo",
+    "target_path": "vendor/xiaomi/ginkgo"
   },
   {
-    "repository": "RevengeOS-Devices/vendor_xiaomi_ginkgo",
-    "target_path": "vendor/xiaomi/ginkgo",
-    "branch": "r11.0",
-    "remote": "github"
-  },
-  {
-    "repository": "RevengeOS-Devices/vendor_miuicamera",
-    "target_path": "vendor/miuicamera",
-    "branch": "r11.0",
-    "remote": "github"
+    "remote": "devices",
+    "repository": "vendor_miuicamera",
+    "target_path": "vendor/miuicamera"
   }
 ]
