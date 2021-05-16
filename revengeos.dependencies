@@ -17,57 +17,50 @@
 	{
 		"remote": "github",
 		"repository": "LineageOS/android_hardware_broadcom_nfc",
-		"target_path": "hardware/broadcom/nfc"
-	},
-	{
-		"remote": "github",
-		"repository": "LineageOS/android_hardware_nxp_nfc",
-		"target_path": "hardware/nxp/nfc"
-	},
-	{
-		"remote": "github",
-		"repository": "LineageOS/android_packages_apps_Nfc",
-		"target_path": "packages/apps/Nfc"
+		"target_path": "hardware/broadcom/nfc",
+                "branch": "lineage-18.1"
 	},
 	{
 		"remote": "github",
 		"repository": "LineageOS/android_vendor_nxp_interfaces_opensource_nfc",
-		"target_path": "vendor/nxp/opensource/interfaces/nfc"
+		"target_path": "vendor/nxp/opensource/interfaces/nfc",
+                "branch": "lineage-18.1"
 	},
 	{
-		"remote": "devices",
+		"remote": "github",
 		"repository": "LineageOS/android_vendor_nxp_opensource_external_libnfc-nci",
-		"target_path": "vendor/nxp/opensource/commonsys/external/libnfc-nci"
+		"target_path": "vendor/nxp/opensource/commonsys/external/libnfc-nci",
+                "branch": "lineage-18.1"
 	},
 	{
 		"remote": "github",
 		"repository": "LineageOS/android_vendor_nxp_opensource_frameworks",
-		"target_path": "vendor/nxp/opensource/commonsys/frameworks"
+		"target_path": "vendor/nxp/opensource/commonsys/frameworks",
+                "branch": "lineage-18.1"
 	},
 	{
 		"remote": "github",
 		"repository": "LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc",
-		"target_path": "vendor/nxp/opensource/commonsys/packages/apps/Nfc"
+		"target_path": "vendor/nxp/opensource/commonsys/packages/apps/Nfc",
+                "branch": "lineage-18.1"
 	},
 	{
 		"remote": "github",
 		"repository": "LineageOS/android_vendor_nxp_opensource_halimpl",
-		"target_path": "vendor/nxp/opensource/sn100x/halimpl"
+		"target_path": "vendor/nxp/opensource/sn100x/halimpl",
+                "branch": "lineage-18.1-sn100x"
 	},
 	{
 		"remote": "github",
 		"repository": "LineageOS/android_vendor_nxp_opensource_hidlimpl",
-		"target_path": "vendor/nxp/opensource/sn100x/hidlimpl"
-	},
-	{
-		"remote": "github",
-		"repository": "LineageOS/android_external_libnfc-nxp",
-		"target_path": "external/libnfc-nxp"
+		"target_path": "vendor/nxp/opensource/sn100x/hidlimpl",
+                "branch": "lineage-18.1-sn100x"
 	},
 	{
 		"remote": "github",
 		"repository": "Wave-Project/hardware_qcom_display",
-		"target_path": "hardware/qcom-caf/sm8150_ginkgo/display"
+		"target_path": "hardware/qcom-caf/sm8150_ginkgo/display",
+                "branch": "r-caf-sm8150"
 	},
 	{
 		"remote": "github",
@@ -84,6 +77,7 @@
 	{
 		"remote": "github",
 		"repository": "ThankYouMario/proprietary_vendor_qcom_sdclang",
-		"target_path": "prebuilts/clang/host/linux-x86/clang-sdllvm"
+		"target_path": "prebuilts/clang/host/linux-x86/clang-sdllvm",
+                "branch": "ruby-12"
 	}
 ]
